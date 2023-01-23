@@ -1,6 +1,7 @@
 package Procesos_ping.ProcessBuilder;
 
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
@@ -15,6 +16,7 @@ public class ProcessBuilder_Example {
             // Ahora, a nuestro ProcessBuilder, le pasamos el comando que queremos hacer y el archivo que queremos leer
             // (que se lo hemos pasado como parámetro)
             pb = new ProcessBuilder().command("cat", file);
+            pb.redirectOutput(new File("/tmp/salida.outs"));
             // Y arrancamos nuestro proceso.
             Process proceso = pb.start();
             System.out.println("Soy el proceso padre y creare el CAT...");
