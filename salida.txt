@@ -1,0 +1,3 @@
+Desde el fichero
+muestro lo que hay dentro.
+Ahora mismo esto, es texto de dentro del fichero.
