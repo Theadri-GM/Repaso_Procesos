@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-                    /* ESTE EJERCICIO NOS PERMITE REALIZAR LA LECTURA DE UN ARCHIVO. */
+                        /* ESTE EJERCICIO NOS PERMITE REALIZAR LA LECTURA DE UN ARCHIVO. */
 public class ProcessBuilder_Example {
 
     // Creamos metodo al que le pasamos una ruta de un fichero como String.
