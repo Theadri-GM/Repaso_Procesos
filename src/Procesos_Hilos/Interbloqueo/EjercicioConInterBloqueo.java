@@ -31,7 +31,6 @@ class Interbloqueo{
                         System.out.println("Acceso a recurso por orden 2 y 1, finalizado\n");
                     }
                 }
-
             }catch(InterruptedException e){
                 e.printStackTrace();
             }
