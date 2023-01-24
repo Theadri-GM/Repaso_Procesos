@@ -1,4 +1,4 @@
-package Procesos_ping.ProcessBuilder;
+package Procesos_Procesos.ProcessBuilder;
 
 import java.io.BufferedReader;
 import java.io.File;

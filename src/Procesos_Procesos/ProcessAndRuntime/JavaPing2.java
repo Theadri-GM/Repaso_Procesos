@@ -1,4 +1,4 @@
-package Procesos_ping.ProcessAndRuntime;
+package Procesos_Procesos.ProcessAndRuntime;
 
 import java.io.BufferedReader;
 import java.io.IOException;

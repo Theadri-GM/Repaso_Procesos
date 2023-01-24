@@ -1,4 +1,4 @@
-package Procesos_ping.EjercicioPlataforma;
+package Procesos_Procesos.EjercicioPlataforma;
 
 import java.io.BufferedReader;
 import java.io.IOException;

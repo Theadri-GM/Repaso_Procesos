@@ -1,4 +1,4 @@
-package Procesos_ping.ProcessBuilderRepetimos;
+package Procesos_Procesos.ProcessBuilderRepetimos;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

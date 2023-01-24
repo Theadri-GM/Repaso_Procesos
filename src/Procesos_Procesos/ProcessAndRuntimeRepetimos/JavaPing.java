@@ -1,6 +1,4 @@
-package Procesos_ping.ProcessAndRuntimeRepetimos;
-
-import com.sun.security.jgss.GSSUtil;
+package Procesos_Procesos.ProcessAndRuntimeRepetimos;
 
 import java.io.BufferedReader;
 import java.io.IOException;
